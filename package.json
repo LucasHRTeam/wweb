@@ -1,0 +1,24 @@
+{
+  "name": "wweb",
+  "version": "1.0.0",
+  "description": "Max Bot usando whatsapp-web.js (versão para computador)",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js --exj js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasHRTeam/wweb.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "puppeteer",
+    "chromium"
+  ],
+  "author": "https://github.com/LucasHRTeam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasHRTeam/wweb/issues"
+  },
+  "homepage": "https://github.com/LucasHRTeam/wweb#readme"
+}
